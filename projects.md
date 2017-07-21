@@ -1,4 +1,4 @@
 ---
-layout: post
+theme: jekyll-theme-cayman
 title: Current Projects
 ---
