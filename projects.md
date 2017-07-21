@@ -1,2 +1,4 @@
-Current Projects
-Past Projects
+---
+layout: post
+title: Current Projects
+---
